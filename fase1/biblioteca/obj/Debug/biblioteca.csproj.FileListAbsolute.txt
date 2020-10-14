@@ -1,0 +1,5 @@
+c:\Users\Calderon\documents\visual studio 2015\Projects\fase1\biblioteca\bin\Debug\biblioteca.dll
+c:\Users\Calderon\documents\visual studio 2015\Projects\fase1\biblioteca\bin\Debug\biblioteca.pdb
+c:\Users\Calderon\documents\visual studio 2015\Projects\fase1\biblioteca\obj\Debug\biblioteca.csprojResolveAssemblyReference.cache
+c:\Users\Calderon\documents\visual studio 2015\Projects\fase1\biblioteca\obj\Debug\biblioteca.dll
+c:\Users\Calderon\documents\visual studio 2015\Projects\fase1\biblioteca\obj\Debug\biblioteca.pdb
